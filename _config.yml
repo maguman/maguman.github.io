@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yongfei Wang
-email: yongfeiw@usc.edu
+title: Yonghyun Chung
+email: frolojeong@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dr. Yongfei Wang's academic hub (QuakeSim).
+  Yonghyun Chung's personal blog
 baseurl: ""
 url: ""
 
