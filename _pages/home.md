@@ -48,7 +48,7 @@ Nice to meet you!
 
 
 <!-- ### **Blogs** -->
-[*Blogs*](/blogs)
+<!-- [*Blogs*](/blogs) -->
 
 #### **Research Highlights <a href="{{ site.url }}{{ site.baseurl }}/publications">link</a>** 
 -----------------------
