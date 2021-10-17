@@ -24,5 +24,5 @@ Narrator: Christine Goulet
 --------------------
 #### 13D resistivity inversion using a nonlinear partial derivative
 --------------------
-<iframe width="800" height="450" src="https://youtu.be/DgCnPepZN8k" frameborder="0" allowfullscreen></iframe>     
+<iframe width="800" height="450" src="https://www.youtube.com/embed/DgCnPepZN8k" frameborder="0" allowfullscreen></iframe>     
 --------------------
