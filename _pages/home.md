@@ -71,7 +71,7 @@ Nice to meet you!
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/GP2014_Fig9.PNG" alt="Slide 1" style="width: 600px; height: 400px; float: center; border: 20px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SEG2017.PNG" alt="Slide 2" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SEG17.PNG" alt="Slide 2" style="width: 600px; height: 400px; float: center; border: 20px"/>
         </div>
 <!--        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangday20.jpg" alt="Slide 3" style="width: 600px; height: 400px; float: center; border: 20px"/>
