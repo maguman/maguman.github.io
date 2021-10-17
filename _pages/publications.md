@@ -1,7 +1,7 @@
 ---
-title: "Yongfei Wang - Publications"
+title: "Yonghyun Chung - Publications"
 layout: gridlay
-excerpt: "Yongfei Wang -- Publications."
+excerpt: "Yonghyun Chung -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [ResearcherGate](https://www.researchgate.net/profile/Yongfei_Wang3))
+(For a full list see [below](#full-list) or go to [ResearcherGate](https://www.researchgate.net/profile/Yonghyun-Chung-2))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
