@@ -29,12 +29,15 @@
   key2: We compare the performance between direct and iterative solvers.
   key3: The results show the superior efficiency of direct solvers, particularly for multisource problems.
   authors: <strong>Yonghyun Chung</strong>, Jeong-Sul Son, Tae Jong Lee, Hee Joon Kim and Changsoo Shin
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.12132
+    display:  doi:10.1111/1365-2478.12132
   highlight: 1
   news2: 
   news2link: 
   news3: 
   news3link: 
-  pdf: https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.12132
+  pdf: 
   cat: journal
 
 
