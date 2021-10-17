@@ -18,159 +18,26 @@
 #	PDF
 
 
-- title: "vvValidation of fault displacements from dynamic rupture simulations against the observations from the 1992 Landers earthquake"
-  journal: Bulletin of the Seismological Society of America
-  volume: "Special Section: Fault Displacement and Near-Source Ground-Motion Models"
-  doi: 10.1785/0120210082
-  year: 2021
-  image: wanggoulet21.png
+- title: "Three-dimensional modelling of controlled-source electromagnetic surveys using an edge finite-element method with a direct solver"
+  journal: Geophysical Prospecting
+  volume: 62(6)
+  doi: 10.1111/1365-2478.12132
+  year: 2014
+  image: GP2014_Fig9.png
   description: 
-  key1: We propose a process for predicting fault displacements using dynamic rupture modeling
-  key2: We compare a dynamic rupture model against observations from the Landers earthquake
-  key3: The results show promise for using dynamic rupture models of fault displacements in probabilistic assessments
-  authors: <strong>Yongfei Wang</strong>, Christine A. Goulet
+  key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM survey.
+  key2: We compare the performance between direct and iterative solvers.
+  key3: The results show the superior efficiency of direct solvers, particularly for multisource problems.
+  authors: <strong>Yonghyun Chung</strong>, Jeong-Sul Son, Tae Jong Lee, Hee Joon Kim and Changsoo Shin
   highlight: 1
   news2: 
   news2link: 
   news3: 
   news3link: 
-  pdf: wanggoulet21.pdf
+  pdf: 
   cat: journal
 
 
-
-- title: "Comparison of Near-Fault Displacement Interpretations from Field and Aerial Data for the M6.4 and M7.1 Ridgecrest Earthquake Sequence Ruptures"
-  journal: Bulletin of the Seismological Society of America
-  volume: "Special Section: Fault Displacement and Near-Source Ground-Motion Models"
-  doi: 10.1785/0120200222
-  year: 2021
-  image: Goulet21.jpg
-  description: 
-  key1: Engineering infrastructure seismic design is often controlled by potential fault displacements.
-  key2: Accurate quantification of on- and off-fault displacements is needed for scientific and engineering modeling.
-  key3: Collection with cross-validation of displacement data from complementary methods (field and aerial) is ideal
-  authors: Christine A. Goulet, <strong>Yongfei Wang</strong>, Chukwuebuka C. Nweke, Bo-xiang Tang, Pengfei Wang, Kenneth S. Hudson, Sean K. Ahdi, Xiaofeng Meng, Martin B. Hudson, Andrea Donnellan, Greg Lyzenga, Scott J. Brandenberg, Jonathan P. Stewart, Timu Gallien, Maria A. Winters and Kenneth W. Hudnut
-  highlight: 1
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: gouletetal21.pdf
-  cat: journal
-
-- title: "Effects of off‐fault inelasticity on near‐fault directivity pulses"
-  journal: Journal of Geophysical Research-Solid Earth
-  volume: 125(7)
-  doi: 10.1029/2019JB019074
-  year: 2020
-  image: wangday20.jpg
-  description: 
-  key1: Off-fault plasticity reshapes directivity pulses by reducing peak velocity and increasing dominant period  
-  key2: Yielding causes peak ground velocity to saturate with respect to increases in both stress drop and epicentral distance
-  key3: Off-fault plasticity suppresses the high-frequency fault-parallel pulses that otherwise develop when rupture breaks free surface
-  authors: <strong>Yongfei Wang</strong> and Steven M. Day
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB019074
-    display:  doi:10.1029/2019JB019074
-  highlight: 1
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: wangday20.pdf
-  cat: journal
-
-- title: "Geometric Controls on Pulse‐Like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake"
-  journal: Journal of Geophysical Research-Solid Earth
-  volume: 124(1), 1544-1568
-  doi: 10.1029/2018JB016602
-  year: 2019
-  image: wangdaydenolle19.jpg
-  description: 
-  key1: Dynamic rupture model isconsistent with the 2015 Gorkhaearthquake slip‐pulse duration andpropagation speed
-  key2: Time‐dependent features of theGorkha earthquake are influencedby rupture geometry andfree‐surface reflections
-  key3: Constraints from near‐field GPSrecording imply no significantrupture of a shallow ramp
-  authors: <strong>Yongfei Wang</strong>, Steven M. Day and Marine A. Denolle
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JB016602
-    display:  doi:10.1029/2018JB016602
-  highlight: 1
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: wangdaydenolle19.pdf
-  cat: journal
-
-- title: "Seismic Source Spectral Properties of Crack‐like and Pulse‐like Modes of Dynamic Rupture"
-  journal: Journal of Geophysical Research-Solid Earth
-  volume: 122(8), 6657-6684
-  doi: 10.1002/2017jb014454
-  year: 2017
-  image: wangday17.jpg
-  description: 
-  key1: Corner frequency changes incrack-like and pulse-like models
-  key2: Stress drop estimate varies withsource characteristics
-  key3: Double spectral decay slopes
-  authors: <strong>Yongfei Wang</strong> and Steven M. Day
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JB014454
-    display:  doi:10.1002/2017jb014454
-  highlight: 1
-  news2: JGR Editor's Highlights
-  news2link: https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JB014454/editor-highlight/10.5555/MIG-HO.70c8279d-225f-4af4-8581-1d9be198e452 
-  news3: Model repository
-  news3link: https://github.com/wangyf/Pulselike_rupture_models
-  pdf: wangday17.pdf
-  cat: journal
-
-
-- title: "Fourth-Order staggered-grid Finite-difference seismic wavefield estimation using a discontinuous mesh interface (WEDMI)"
-  journal: Bulletin of the Seismological Society of America
-  volume: 07(5), 2183-2193
-  doi: 10.1785/0120170077
-  year: 2017
-  image: niewangolsenday17.jpg
-  description: 
-  key1: Strong ground motion simulation
-  key2: Discontinuous mesh finite difference
-  key3: Scheme accuracy and stability
-  authors: Shiying Nie, <strong>Yongfei Wang</strong>, Kim B. Olsen and Steven M. Day
-  link:
-    url: https://pubs.geoscienceworld.org/ssa/bssa/article/107/5/2183/506706/fourth-order-staggered-grid-finite-difference
-    display:  doi:10.1785/0120170077
-  highlight: 1
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: niewangolsenday17.pdf
-  cat: journal
-
-
-
-
-- title: "Dynamic Modeling of Pulse-like Earthquake and Ground Motion"
-  journal: PhD Thesis
-  volume: UC San Diego
-  doi: 
-  year: 2019
-  image: 
-  description: 
-  key1:
-  key2:
-  key3:
-  authors: <strong>Yongfei Wang</strong>
-  link:
-    url: https://escholarship.org/uc/item/8v30p32w
-    display:  escholarship
-  highlight: 0
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: wang19.pdf
-  cat: nonjournal
 
 
 
