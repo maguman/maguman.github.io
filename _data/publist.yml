@@ -37,11 +37,31 @@
   news2link: 
   news3: 
   news3link: 
-#  pdf: 
+  pdf: 
   cat: journal
 
 
-
+- title: "3D CSEM inversion using general measures for evaluating data fidelity and model regularity"
+  journal: SEG Technical Program Expanded Abstracts
+  volume: 
+  doi: 10.1190/segam2017-17782581.1
+  year: 2017
+  image: SEG17.PNG
+  description: 
+  key1: We adopt general measures - L2, L1, Huber, Hybrid, Sech, Cauchy, L0 for measuring data fidelity and model regularity.
+  key2: We illustrate different features of general measures through synthetic experiments.
+  key3: The use of general measures ensures high-fidelity data-fitting and provides a way to emphasize certain desirable attributes.
+  authors: <strong>Yonghyun Chung</strong> and Changsoo Shin
+  link:
+    url: https://library.seg.org/doi/abs/10.1190/segam2017-17782581.1
+    display: doi:10.1111/1365-2478.12132
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: nonjournal
 
 
 
