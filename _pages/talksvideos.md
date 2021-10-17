@@ -7,6 +7,5 @@ permalink: /talksvideos/
 
 # Talks 
 --------------------
-### 3D resistivity inversion using a nonlinear partial derivative
+### 33D resistivity inversion using a nonlinear partial derivative
 <iframe width="800" height="450" src="https://youtu.be/DgCnPepZN8k" frameborder="0" allowfullscreen></iframe>
-
