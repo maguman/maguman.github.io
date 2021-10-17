@@ -23,7 +23,7 @@
   volume: 62(6)
   doi: 10.1111/1365-2478.12132
   year: 2014
-  image: GP2014_Fig9.png
+  image: GP2014_Fig9.PNG
   description: 
   key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM survey.
   key2: We compare the performance between direct and iterative solvers.
