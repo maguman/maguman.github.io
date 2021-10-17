@@ -21,7 +21,7 @@ permalink: /
 
 #### **About me**
 
-I'm a Postdoc Research Associate at [<span style="color:red">*Southern California Earthquake Center (SCEC)*</span>](https://www.scec.org), [<span style="color:red">*University of Southern California*</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
+Nice to meet you! 
   </div>
 </div>
 
@@ -30,40 +30,21 @@ I'm a Postdoc Research Associate at [<span style="color:red">*Southern Californi
 <br>
 
 
-<!-- <br/>
-![]({{ site.url }}{{ site.baseurl }}/images/portrait.png){: style="width: 200px; float: center; border: 100px"}
-<br/>
-<br/> -->
-<div class="row">
-<div class="col-md-15">   
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-</div>
-</div>
-
-<br>
 
 #### **Eduction**
-* Ph.D in Geophysics (2019)<br/>
-    Joint UCSD/SDSU Geophysics PhD Program<br/>
-    Committee: Steven Day (co-Chair), Peter Shearer (co-Chair), Kim Olsen, Yuri Fialko, Sam Shen and Jiun-Shyan(JS) Chen<br/>
-* B.S in Geophysics (2013)<br/>
-    University of Science and Technology of China <br/>
-    Advisor: Sidao Ni<br/>
-
+* PhD in Geophysics (2011)<br/>
+    Supervisor: Changsoo Shin, Seoul National University<br/>
+* MsD in Geophysics (1998)<br/>
+    Supervisor: Jung Hee Suh, Seoul National University<br/>
+* B.S in Mineral and Petroleum Engineering (1996)<br/>
+    Seoul National University <br/>
 
 
 <br>
 
 #### **Research Area:**  
-* Earthquake Surface Rupture  
-* Earthquake Rupture Dynamics
-* Earthquake Strong Ground Motion
-* High-performance Computation
-* 3D Visualization
+* Computational Geophysics
+* Inverse Scattering
 
 
 <!-- ### **Blogs** -->
