@@ -21,7 +21,7 @@ permalink: /
 
 #### **About me**
 
-Nice to meet you! 
+Yonghyun Chung is a research associate at Inha University in South Korea.
   </div>
 </div>
 
