@@ -34,12 +34,9 @@ Yonghyun Chung is a research associate at Inha University in South Korea.
 
 
 #### **Eduction**
-* PhD in Geophysics (2011)<br/>
-    Supervisor: Changsoo Shin, Seoul National University<br/>
-* MS in Geophysics (1998)<br/>
-    Supervisor: Jung Hee Suh, Seoul National University<br/>
-* BS in Mineral and Petroleum Engineering (1996)<br/>
-    Seoul National University <br/>
+* PhD in Geophysics, Seoul National University, 2011<br/>
+* MS in Geophysics, Seoul National University, 1998 <br/>
+* BS in Mineral and Petroleum Engineering, Seoul National University, 1996 <br/>
 
 
 <br>
