@@ -22,7 +22,7 @@ permalink: /
 #### **About me**
 
 <!--Procrastinators are often sugarcoated as perfectionists. I'm well aware that 'perfection' here means not a lofty goal, but an unrealistic and unachievable goal. People say I'm a perfectionist, sometimes a procrastinator, but I'm also well aware that I just want to know what I want to know. -->
-Yonghyun Chung is a research associate at Inha University in South Korea.
+Research associate at Inha University in South Korea.
 <!-- He attended Seoul National University, where he received a BS (1996) from the department of mineral and petroleum engineering, and an MS (1998) and PhD (2011) in geophysics. He held postdoctoral fellowship and reearch assistant professor positions at Hanyang University and was a research associate at Seoul National University before joining the Industrial Science and Technology Research Institute at Inha University in 2020. Besides his research experience, he has 10 years of experience as an exploration geophysicist and software engineer. His current research interests include moving beyond linear approximations in nonlinear geophysical inverse problems. -->
   </div>
 </div>
