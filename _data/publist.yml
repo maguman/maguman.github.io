@@ -25,7 +25,7 @@
   year: 2014
   image: GP2014_Fig9.PNG
   description: 
-  key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM survey.
+  key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM surveys.
   key2: We compare the performance between direct and iterative solvers.
   key3: The results show the superior efficiency of direct solvers, particularly for multisource problems.
   authors: <strong>Yonghyun Chung</strong>, Jeong-Sul Son, Tae Jong Lee, Hee Joon Kim and Changsoo Shin
