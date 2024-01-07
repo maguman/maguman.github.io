@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [ResearcherGate](https://www.researchgate.net/profile/Yonghyun-Chung-2))
+(For a full list see [below](#full-list) or go to [Google scholar](https://scholar.google.com/citations?user=ZJnqK2oAAAAJ&hl=ko))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
