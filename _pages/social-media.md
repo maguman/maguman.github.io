@@ -16,4 +16,4 @@ permalink: /social-media.html
 
 <br>
 
-<a class="twitter-timeline" data-width="600" data-height="1200" data-dnt="true" data-theme="light" href="https://twitter.com/ChungYonghyun?ref_src=twsrc%5Etfw">Tweets by chungyonghyun</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-height="1200" data-dnt="true" data-theme="light" href="https://x.com/ChungYonghyun?ref_src=twsrc%5Etfw">Tweets by chungyonghyun</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
