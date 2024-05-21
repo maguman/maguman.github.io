@@ -17,3 +17,6 @@ permalink: /social-media.html
 <br>
 
 <a class="twitter-timeline" data-width="600" data-height="1200" data-dnt="true" data-theme="light" href="https://twitter.com/ChungYonghyun?ref_src=twsrc%5Etfw">Tweets by chungyonghyun</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.1.5/dist/bsky-embed.es.js" async></script><bsky-embed username="ychung" mode="dark" limit="5" > </bsky-embed>
+
+
