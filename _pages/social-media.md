@@ -5,8 +5,6 @@ excerpt: "AOA"
 sitemap: true
 permalink: /social-media.html
 ---
-<link href="{{ site.url }}{{ site.baseurl }}/css/mastodon-timeline.min.css rel="stylesheet" />
-
 <div class="col-sm-8 clearfix">
 <a href="https://www.facebook.com/yonghyun.chung.52"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FB.png" class="img-responsive" width="60px" style="float: left" /></a> 
 <a href="https://github.com/maguman"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/github-logo.png" class="img-responsive" width="60px" style="float: left" /></a>
