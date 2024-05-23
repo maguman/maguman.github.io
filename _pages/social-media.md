@@ -12,7 +12,7 @@ permalink: /social-media.html
 <a href="https://bsky.app/profile/ychung.bsky.social"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bluesky.png" class="img-responsive" width="60px" style="float: left" /></a>
 <a href="https://www.youtube.com/channel/UCJLKhB5FXj9eoVqY0ymLIsQ"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YT.png" class="img-responsive" width="60px" style="float: left" /></a>
 </div>
-
+<br>
 <br>
 <a class="twitter-timeline" data-width="600" data-height="1200" data-dnt="true" data-theme="light" href="https://bsky.app/profile/ychung.bsky.social">Tweets by Yonghyun</a> 
 <script async src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" charset="utf-8"></script>
