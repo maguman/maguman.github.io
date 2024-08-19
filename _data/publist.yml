@@ -41,26 +41,26 @@
   cat: journal
 
 
-- title: "3D CSEM inversion using general measures for evaluating data fidelity and model regularity"
-  journal: SEG Technical Program Expanded Abstracts
+- title: "Three-dimensional inversion of controlled-source electromagnetic data using general measures to evaluate data misfits and model structures"
+  journal: Geophysical Prospecting
   volume: 
-  doi: 10.1190/segam2017-17782581.1
-  year: 2017
+  doi: 10.1111/1365-2478.13576
+  year: 2024
   image: SEG17.PNG
   description: 
-  key1: We adopt general measures - L2, L1, Huber, Hybrid, Sech, Cauchy, L0 for measuring data fidelity and model regularity.
-  key2: We illustrate different features of general measures through synthetic experiments.
-  key3: The use of general measures ensures high-fidelity data-fitting and provides a way to emphasize certain desirable attributes.
-  authors: <strong>Yonghyun Chung</strong> and Changsoo Shin
+  key1: We developed a new three-dimensional controlled-source electromagnetic inversion algorithm that allows general measures to be made selectively available.
+  key2: The behaviours of general measures for evaluating data misfits and model structures are examined focusing on elucidating weighting mechanisms and setting user-defined paramenters.
+  key3: Our findings highlight the seamless integration of general measures, contributing to improved robustness against data outliers and enhanced spatial properties provided in output models.
+  authors: <strong>Yonghyun Chung</strong>, Soon Jee Seol and Joongmoo Byun
   link:
-    url: https://library.seg.org/doi/abs/10.1190/segam2017-17782581.1
-    display: doi:10.1111/1365-2478.12132
+    url: https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.13576
+    display: doi:10.1111/1365-2478.13576
   highlight: 1
   news2: 
   news2link: 
   news3: 
   news3link: 
   pdf: 
-  cat: nonjournal
+  cat: journal
 
 
