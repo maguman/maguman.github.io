@@ -17,30 +17,6 @@
 #   news2link: 
 #	PDF
 
-
-- title: "Three-dimensional modelling of controlled-source electromagnetic surveys using an edge finite-element method with a direct solver"
-  journal: Geophysical Prospecting
-  volume: 62(6)
-  doi: 10.1111/1365-2478.12132
-  year: 2014
-  image: GP2014_Fig9.PNG
-  description: 
-  key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM surveys.
-  key2: We compare the performance between direct and iterative solvers.
-  key3: The results show the superior efficiency of direct solvers, particularly for multisource problems.
-  authors: <strong>Yonghyun Chung</strong>, Jeong-Sul Son, Tae Jong Lee, Hee Joon Kim and Changsoo Shin
-  link:
-    url: https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.12132
-    display:  doi:10.1111/1365-2478.12132
-  highlight: 1
-  news2: 
-  news2link: 
-  news3: 
-  news3link: 
-  pdf: 
-  cat: journal
-
-
 - title: "Three-dimensional inversion of controlled-source electromagnetic data using general measures to evaluate data misfits and model structures"
   journal: Geophysical Prospecting
   volume: 
@@ -64,3 +40,24 @@
   cat: journal
 
 
+- title: "Three-dimensional modelling of controlled-source electromagnetic surveys using an edge finite-element method with a direct solver"
+  journal: Geophysical Prospecting
+  volume: 62(6)
+  doi: 10.1111/1365-2478.12132
+  year: 2014
+  image: GP2014_Fig9.PNG
+  description: 
+  key1: We propose a fully three-dimensional edge-finite-element algorithm for simulating CSEM surveys.
+  key2: We compare the performance between direct and iterative solvers.
+  key3: The results show the superior efficiency of direct solvers, particularly for multisource problems.
+  authors: <strong>Yonghyun Chung</strong>, Jeong-Sul Son, Tae Jong Lee, Hee Joon Kim and Changsoo Shin
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.12132
+    display:  doi:10.1111/1365-2478.12132
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: journal
