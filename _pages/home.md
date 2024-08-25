@@ -44,6 +44,8 @@ I'm passionate about solving inverse scattering problems, aiming to push the bou
 #### **Research Area:**  
 * Computational Geophysics
 * Inverse Scattering
+* Near Surface Geophysics
+* Earthquake Simulation
 
 
 <!-- ### **Blogs** -->
