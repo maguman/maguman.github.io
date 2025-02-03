@@ -25,7 +25,7 @@
   image: SEG17.PNG
   description: 
   key1: We developed a new 3D controlled-source electromagnetic inversion algorithm that allows general measures to be made selectively available.
-  key2: The behaviours of general measures are examined focusing on weighting mechanism and user-defined paramenters.
+  key2: The behaviours of general measures are examined focusing on weighting mechanism and user-defined parameters.
   key3: Our findings highlight the seamless integration of general measures, contributing to improved robustness against data outliers and enhanced spatial properties provided in output models.
   authors: <strong>Yonghyun Chung</strong>, Soon Jee Seol and Joongmoo Byun
   link:
