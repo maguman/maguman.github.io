@@ -17,6 +17,29 @@
 #   news2link: 
 #	PDF
 
+- title: "A versatile framework for data space regularization"
+  journal: Geophysical Prospecting
+  volume: 
+  doi: 
+  year: 
+  image: 
+  description: 
+  key1: We developed a new 3D controlled-source electromagnetic inversion algorithm that allows general measures to be made selectively available.
+  key2: The behaviours of general measures are examined focusing on weighting mechanism and user-defined parameters.
+  key3: Our findings highlight the seamless integration of general measures, contributing to improved robustness against data outliers and enhanced spatial properties provided in output models.
+  authors: <strong>Yonghyun Chung</strong>
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: manuscript
+
+
 - title: "Three-dimensional inversion of controlled-source electromagnetic data using general measures to evaluate data misfits and model structures"
   journal: Geophysical Prospecting
   volume: 72(8)
