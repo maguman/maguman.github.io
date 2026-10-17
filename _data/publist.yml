@@ -25,8 +25,8 @@
   image: Memory.png
   description: 
   key1: Regularization can reduce the computational efficiency of data-space inversion because constructing model covariance is computationally demanding.  
-  key2: We propose a data-space regularization framework that efficiently incorporates diverse structural constraints, including minimum support, total variation, and maximum smoothness.
-  key3: Tests on synthetic and field datasets show that it matches regularized model-space inversion while offering greater efficiency in highly underdetermined problems.
+  key2: To address this challenge, we propose a computationally efficient regularization framework for data-space inversion.
+  key3: By achieving structural constraint parity with model-space regularization, this framework removes a key barrier to the widespread adoption of data-space inversion.
   authors: <strong>Yonghyun Chung</strong>
   link:
     url: 
@@ -59,7 +59,7 @@
   news2link: 
   news3: 
   news3link: 
-  pdf: 0
+  pdf: 
   cat: journal
 
 
