@@ -22,11 +22,11 @@
   volume: 
   doi: 
   year: 
-  image: 
+  image: Memory.png
   description: 
-  key1: We developed a new 3D controlled-source electromagnetic inversion algorithm that allows general measures to be made selectively available.
-  key2: The behaviours of general measures are examined focusing on weighting mechanism and user-defined parameters.
-  key3: Our findings highlight the seamless integration of general measures, contributing to improved robustness against data outliers and enhanced spatial properties provided in output models.
+  key1: Regularization can reduce the computational efficiency of data-space inversion because constructing model covariance is computationally demanding.  
+  key2: We propose a data-space regularization framework that efficiently incorporates diverse structural constraints, including minimum support, total variation, and maximum smoothness.
+  key3: Tests on synthetic and field datasets show that it matches regularized model-space inversion while offering greater efficiency in highly underdetermined problems.
   authors: <strong>Yonghyun Chung</strong>
   link:
     url: 
