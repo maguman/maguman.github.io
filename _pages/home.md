@@ -27,17 +27,12 @@ I'm passionate about solving inverse scattering problems, aiming to push the bou
   </div>
 </div>
 
-
-
 <br>
-
-
 
 #### **Eduction**
 * PhD in Geophysics, Seoul National University, 2011<br/>
 * MS in Geophysics, Seoul National University, 1998 <br/>
 * BS in Mineral and Petroleum Engineering, Seoul National University, 1996 <br/>
-
 
 <br>
 
@@ -60,9 +55,9 @@ I'm passionate about solving inverse scattering problems, aiming to push the bou
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-<!--        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+<!--        <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
