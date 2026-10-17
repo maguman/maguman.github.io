@@ -21,11 +21,11 @@
   journal: Geophysical Prospecting
   volume: 
   doi: 
-  year: 
+  year: 2027
   image: Memory.png
   description: 
   key1: Regularization can reduce the computational efficiency of data-space inversion because constructing model covariance is computationally demanding.  
-  key2: To address this challenge, we propose a computationally efficient regularization framework for data-space inversion.
+  key2: To address this challenge, I propose a computationally efficient regularization framework for data-space inversion.
   key3: By achieving structural constraint parity with model-space regularization, this framework removes a key barrier to the widespread adoption of data-space inversion.
   authors: <strong>Yonghyun Chung</strong>
   link:
