@@ -57,7 +57,6 @@ I'm passionate about solving inverse scattering problems, aiming to push the bou
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
 <!--        <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
@@ -68,7 +67,7 @@ I'm passionate about solving inverse scattering problems, aiming to push the bou
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Memory.png" alt="Slide 1" style="width: 600px; height: 400px; float: center; border: 20px"/>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/GP2014_Fig9.PNG" alt="Slide 2" style="width: 600px; height: 400px; float: center; border: 20px"/>
         </div>
         <div class="item">
