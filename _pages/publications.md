@@ -31,7 +31,7 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}</p>
   <em>{{publi.journal}}</em> (<em>{{ publi.year }}</em>) 
-  <p><em><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></em> [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}}) </p>
+  <p><em><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></em> <!--[<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}})--> </p>
   <p> </p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> [{{ publi.news2 }}]({{publi.news2link}})</p>
