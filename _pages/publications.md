@@ -76,6 +76,7 @@ permalink: /publications/
 
 <br>
 
+<!--
 #### Non Peer-review publication
 ------------------
 {% for publi in site.data.publist %}
@@ -83,4 +84,4 @@ permalink: /publications/
   {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }} <em>{{publi.journal}}</em>, {{publi.volume}}, <a href="{{publi.link.url}}">{{ publi.link.url }}</a> [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}}) 
 {% endif %}
 {% endfor %}
-
+-->
