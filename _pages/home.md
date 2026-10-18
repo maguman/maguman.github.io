@@ -10,7 +10,7 @@ permalink: /
   <div class="col-md-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 200px">
   </div>
-  <div class="col-md-6">
+  <div class="col-md-8">
 
 <br/>
 <br/>
