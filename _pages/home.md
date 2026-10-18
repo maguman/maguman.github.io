@@ -6,14 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-
-
-
 <div class="row">
   <div class="col-md-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 200px">
   </div>
-  <div class="col-md-8">
+  <div class="col-md-6">
 
 <br/>
 <br/>
