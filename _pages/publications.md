@@ -73,7 +73,7 @@ permalink: /publications/
   {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }}, <em>{{publi.journal}}</em>, {{publi.volume}}
 {% endif %}
 {% if publi.cat == "manuscript"%}
-  {{ publi.authors }} (<em>In Peparation</em>), {{ publi.title }}, <em>{{publi.journal}}</em> 
+  {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }}, <em>{{publi.journal}}</em> 
 {% endif %}
 {% endfor %}
 
