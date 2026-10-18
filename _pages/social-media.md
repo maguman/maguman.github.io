@@ -16,4 +16,6 @@ permalink: /social-media.html
 <br>
 <a class="twitter-timeline" data-width="600" data-height="1200" data-dnt="true" data-theme="light" href="https://bsky.app/profile/ychung.bsky.social">Tweets by Yonghyun</a> 
 <script async src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" charset="utf-8"></script>
+<div style="max-height: 700px; overflow-y: auto;">
 <bsky-embed username="ychung.bsky.social" limit="10" load-more="true" > </bsky-embed>
+</div>
