@@ -72,7 +72,7 @@
   key1: We present a GPU-powered simulator for high-performance 3D earthquake simulation.
   key2: It combines OpenMP-based domain decomposition, GPU-thread parallelism, and direct inter-GPU communication to overcome memory and communication bottlenecks.
   key3: On four Tesla P100 GPUs, it achieves approximately 130× the simulation speed of the CPU-based MPI–OpenMP implementation under equivalent conditions.
-  authors: <strong>Yonghyun Chung</strong> Jaejoon Lee
+  authors: <strong>Yonghyun Chung</strong> and Jaejoon Lee
   link:
     url: 
     display: 
