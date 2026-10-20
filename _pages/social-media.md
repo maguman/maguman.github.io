@@ -2,7 +2,7 @@
 title: "Yonghyun's Social Media"
 layout: sociallay
 excerpt: "AOA"
-sitemap: false
+sitemap: true
 permalink: /social-media.html
 ---
 <div class="col-sm-8 clearfix">
