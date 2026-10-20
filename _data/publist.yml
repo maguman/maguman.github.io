@@ -17,6 +17,95 @@
 #   news2link: 
 #	PDF
 
+
+- title: "Nonlinear inversion in the scattering-source space"
+  journal: Manuscript in Preparation
+  volume: 
+  doi: 
+  year: Hopefully 2027
+  image: SSS.png
+  description: 
+  key1: Conventional Born-approximation-based linearized inversion neglects higher-order sensitivities, often producing nonlinearity artifacts and limiting convergence and resolution.
+  key2: We introduce a scattering-source space and a nonlinear sensitivity operator to quantify and directly incorporate nonlinear effects into the inversion formulation.
+  key3: We apply the method to geophysical field data to resolve seismogenic fault structures and demonstrate its superiority over conventional methods.
+  authors: <strong>Yonghyun Chung</strong>
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: manuscript
+
+- title: "Efficient 3D MT inversion at seismogenic-fault scales using data-space regularization"
+  journal: Manuscript in Preparation
+  volume: 
+  doi: 
+  year: Hopefully 2027
+  image: MT.png
+  description: 
+  key1: Three-dimensional MT inversion can mitigate errors from 2D assumptions, but its computational cost limits applications to localized areas.
+  key2: We adapt a previously developed data-space regularization framework to enable efficient 3D MT inversion at the scale of seismogenic faults.
+  key3: We validate the method using 3D MT data acquired near the Gyeongju and Pohang earthquake source regions in Republic of Korea.
+  authors: <strong>Yonghyun Chung</strong> and Tae Jong Lee
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: manuscript
+
+- title: "GPU-powered 3D earthquake simulation"
+  journal: Manuscript in Preparation
+  volume: 
+  doi: 
+  year: Hopefully 2027
+  image: EQ.png
+  description: 
+  key1: We present a GPU-powered simulator for high-performance 3D earthquake simulation.
+  key2: It combines OpenMP-based domain decomposition, GPU-thread parallelism, and direct inter-GPU communication to overcome memory and communication bottlenecks.
+  key3: On four Tesla P100 GPUs, it achieves approximately 130× the simulation speed of the CPU-based MPI–OpenMP implementation under equivalent conditions.
+  authors: <strong>Yonghyun Chung</strong> Jaejoon Lee
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: manuscript
+
+- title: "Data-space first-arrival traveltime tomography using damped wavefields"
+  journal: Manuscript in Preparation
+  volume: 
+  doi: 
+  year: Hopefully 2027
+  image: FATT.png
+  description: 
+  key1: Damped wavefields suppress later arrivals and provide finite-frequency sensitivity to first-arrival traveltimes, reducing reliance on high-frequency ray approximations.  
+  key2: Formulating the inversion in data space enables a computationally efficient Gauss-Newton solution.
+  key3: By combining these advantages, the proposed method improves computational efficiency and the spatial resolution of the reconstructed images, as demonstrated using field data.
+  authors: <strong>Yonghyun Chung</strong> and Sukjoon Pyun
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: 
+  cat: manuscript
+
 - title: "A versatile framework for data space regularization"
   journal: Manuscript in Preparation
   volume: 
